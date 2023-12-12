@@ -21,7 +21,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 
 ## 🔍 Referências
-- [Digital Innovation One](https://www.dio.me/).
+- [Digital Innovation One](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero).
 
 <br>
 
