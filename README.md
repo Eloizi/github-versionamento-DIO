@@ -21,7 +21,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 
 ## 🔍 Referências
-- [Digital Innovation One]().
+- [Digital Innovation One](https://www.dio.me/).
 
 <br>
 
