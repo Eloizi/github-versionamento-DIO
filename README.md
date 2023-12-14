@@ -43,16 +43,22 @@ Repositório criado para armazenar resumos das aulas ministrada pela [Elidiana A
 
 <br>
 
-## 📝 Dicas e Materiais de Apoio
-- [Compreendendo o Git](https://dataunique.com.br/lab/lab-compreendendo-o-git/#:~:text=Onde%3A,ignora%20todas%20as%20modifica%C3%A7%C3%B5es%20feitas)
-- [Documentação GitHub](https://docs.github.com/)
-
-## 🔍 Referências
-- [Digital Innovation One](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero).
-
 ## 📚 Documentação
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
+
+<br>
+  
+## 📝 Dicas e Materiais de Apoio
+- [Uma Introdução ao Git](https://petcomputacaoufrgs.github.io/intro-ao-git/o-que-eh.html)
+- [Compreendendo o Git](https://dataunique.com.br/lab/lab-compreendendo-o-git/)
+- [Markdown Tutorial](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)
+- [Sintaxe Markdown](https://portal.revendadesoftware.com.br/manuais/base-de-conhecimento/sintaxe-markdown)
+
+<br>
+
+## 🔍 Referências
+- [Digital Innovation One](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero).
 
 <br>
 
