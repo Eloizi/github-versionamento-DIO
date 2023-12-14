@@ -8,8 +8,7 @@ Como alterar uma mensagem, que foi mandada errada através do -m ao fazer um com
 git commit --amend -m "nova mensagem "
 ```
 
-se não passar o -m ele ira abrir um editor no próprio git para que possa editar a mensagem, pelo editor do git bash:
-
+se não passar o -m ele ira abrir um editor no próprio git bash para que possa editar a mensagem.
 
 ---
 
