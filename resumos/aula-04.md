@@ -49,7 +49,7 @@ $ git reset --soft (cole aqui o hash do commit)
 
 ## 🚶‍♀️🚶🚴‍♀️ Passo 03
 
-Após o comando, ele retorna os arquivos para o estado em que estavam no “commit inicial” e colocou os arquivos agora no estage area → estado de preparação.
+Após o comando, ele retorna os arquivos para o estado em que estavam no “commit especificado pelo hash” e colocou os arquivos agora no estage area → estado de preparação.
 
 Como ainda não demos o git commit essa alteração não foi salva, então agora só darmos sequência (caso esteja tudo correto) e salvar o processo com:
 
