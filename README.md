@@ -28,7 +28,7 @@ Repositório criado para armazenar resumos das aulas ministrada pela [Elidiana A
 |Aula 04 - Revertendo Modificações| [Resumo](/resumos/aula-04.md) |
 |Aula 05 - Alterando Mensagem de um commit| [Resumo](/resumos/aula-05.md) |
 |Aula 06 - Removendo um arquivo do Espaço de Preparação| [Resumo](/resumos/aula-06.md) |
-|Aula 07 - Puxando as alterações do repositório remoto para o local| [Resumo](/resumos/) |
+|Aula 07 - Puxando as alterações do repositório remoto para o local| [Resumo](/resumos/aula-07.md) |
 |Aula 08 - Enviando as alterações do repositório local para o remoto| [Resumo](/resumos/) |
 |Aula 09 - O que é uma Branch, e para quê serve?| [Resumo](/resumos/) |
 |Aula 10 - Mesclando Branchs| [Resumo](/resumos/) |
