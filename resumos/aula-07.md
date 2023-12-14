@@ -20,7 +20,7 @@ O comando 'git pull' é uma combinação de:
 - 'git fetch'(comando utilizado para baixar as informações do repositório remoto), e
 - 'git merge' (comando utilizado para mesclar as alterações na sua branch local).
 
-Sendo assim, caso o seu repositório local tiver alguma alteração que ainda não foi confirmada, ao fazer o git pull, resultará em um Conflito de Merge, pois o git tentará mesclar as branchs automáticamente. Se ocorrer o conflito de merge, e precisar de alguma ajuda para resolver, consulte o resumo da [aula 14 - Conflito de Merge](/resumos/)
+Sendo assim, caso o seu repositório local tiver alguma alteração que ainda não foi confirmada, ao fazer o git pull, resultará em um conflito de merge, pois o git tentará mesclar as branchs automáticamente. Se ocorrer o conflito de merge, e precisar de alguma ajuda para resolver, consulte o resumo da [aula 14 - Conflito de Merge](/resumos/)
 
 <br>
 
