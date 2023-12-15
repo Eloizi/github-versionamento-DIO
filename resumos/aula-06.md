@@ -1,7 +1,7 @@
 
 # Resumos | Aula 06
 
-Para remover um arquivo do espaço de preparaçãom podemos utilizar o git reset, e o git restore, exemplo: suponhamos que temos 2 arquivos, arquivo-01.md e arquivo-02.md, e demos um:
+Para remover um arquivo do espaço de preparação podemos utilizar o git reset, e o git restore, exemplo: suponhamos que temos 2 arquivos, arquivo-01.md e arquivo-02.md, e demos um:
 
 ```
 git add .
