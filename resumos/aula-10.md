@@ -2,77 +2,42 @@ O que é uma Branch, e para quê serve?
 
 # Resumos | Aula 10
 
-### O que é Conflito de Merge?
+### 🔍 O que é Conflito de Merge?
 
-Esse problema por acontecer quando existes alterações concorrentes, isso é,  quando duas pessoas alteram a mesma linha de código, e quando um dos dois tenta enviar essas alterações, acaba gerando um conflito com que o outro havia enviado, pois o git não vai entender qual das alterações precisa ser mantida, então ele retorna esse erro, para que você decida qual alteração você deseja manter. Exemplo, tenho um arquivo que foi editado através da plataforma do gitHub, e outra que foi alterado através das linhas de comando. Quando tento enviar para o meu repositório remoto, ele dará um erro, tipo o exemplo:
-
-exemplo:
-![arquivos esperando para serem commitados](https://git-scm.com/book/en/v2/images/two-branches.png)
+Esse problema ocorre quando duas pessoas fazem alterações simultâneas na mesma linha de código. Se uma delas tentar enviar essas mudanças, surge um conflito com as alterações feitas pela outra pessoa. Isso acontece porque o Git não consegue determinar automaticamente qual versão das alterações deve ser mantida. Em vez disso, ele gera um erro, pedindo que você escolha qual versão deseja manter. Por exemplo, se você editar um arquivo no GitHub e outro arquivo usando comandos de linha, ao tentar enviar para o repositório remoto, um erro será gerado, semelhante ao exemplo mencionado.
 
 
-### 💻 Comandos para trabalhar com as Branches
+<br>
 
-- Criar uma nova Branch:
-    ```
-    git branch nome-da-nova-branch
-    ```
+![exemplo de erro: conflito de merge](/img/exemplo-conflito-merge.jpg)
 
-- Mudar para uma Branch Existente:
-    ```
-    git checkout nome-da-branch
-    ```
 
-- Criar uma nova Branch e Mudar para ela:
-    ```
-    git checkout -b nome-da-nova-branch
-    ```
-- Informar qual Branch você está no momento:
-    ```
-    git branch -v
-    ```
 
-- Listar toas as Branches Locais:
-    ```
-    git branch
-    ```
+Antes de enviar alterações, é importante atualizar o repositório local usando "git pull" para sincronizar com as mudanças remotas. Se houver alterações conflitantes na mesma linha, o Git não consegue decidir automaticamente qual versão manter, exigindo uma resolução manual do conflito. Exemplo:
 
-- Listar todas as Branches (Locais e Remotas):
-    ```
-    git branch -a
-    ```
+![exemplo de git pull](/img/erro-conflito-merge.jpg)
 
-- Excluir uma Branch Local:
-    ```
-    git branch -d nome-da-branch
-    ```
-    - Para forçar a exclusão use -D
-        ```
-        git branch -D nome-da-branch
-        ```
 
-## Mesclando Branches:
-O comando git merge nomeBranch no Git é utilizado para mesclar as alterações de uma branch específica (nomeBranch) em sua branch atual.
+Podemos então alterar manualmente o arquivo e escolher a linha que queremos manter, exemplo:
 
-### 1º Posicionamento na Branch Atual:
-Antes de tudo, você precisa estar na branch para a qual deseja mesclar as alterações. Você pode usar o comando git checkout ou git switch para mudar para a branch de destino.
+![exemplo do arquivo antes da modificação](/img/erro-conflito-merge.jpg)
 
-### 2º Execução do Comando de Mesclagem:
+Após escolher qual modificação deseja manter, salve o arquivo:
 
-Você executa o comando git merge nomeBranch, indicando a branch da qual deseja trazer as alterações (nomeBranch) para a branch atual:
+![exemplo do arquivo depois de modificado](/img/erro-conflito-merge.jpg)
 
-```
-git merge nomeBranch
-```
+Com o arquivo modificado podemos perceber que agora é reconhecido pelo "git status", e podemos seguir com o "git commit":
 
-Após o comando o git analisará as alterações feitas em ambas as branches (a atual e a branch a ser mesclada) e tenta fundi-las automaticamente.
+![exemplo do arquivo git status](/img/erro-conflito-merge.jpg)
 
-### 3º Possíveis Conflitos:
+![exemplo do arquivo git git commit](/img/erro-conflito-merge.jpg)
 
-Se houver conflitos entre as alterações (ou seja, modificações no mesmo local do código em ambas as branches), o Git pausará o processo de mesclagem e indicará que há conflitos a serem resolvidos. Dúvidas acesse o resumo da [aula 10](/resumos/).
+Agora ele nos permite enviar as modificações para nosso repositório remoto, com: “git push origin main”
+seria algo como, envie essas informações que estão na MAIN para a ORIGIN que é um servidor remoto:
 
-### 4º Confirmação da Mesclagem:
+![exemplo enviando arquivos com git push](/img/erro-conflito-merge.jpg)
 
-Após resolver os conflitos (se houver), você conclui o processo de mesclagem e confirma as alterações. Isso cria um novo commit que incorpora as mudanças de ambas as branches.
+E o problema foi resolvido;
 
 ---
 
