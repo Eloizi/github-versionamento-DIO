@@ -1,10 +1,10 @@
 O que é uma Branch, e para quê serve?
 
-# Resumos | Aula 09
+# Resumos | Aula 10
 
-### 🌿 O que é uma Branch e para que serve?
+### O que é Conflito de Merge?
 
-Uma branch, ou "ramo" em tradução, é uma ramificação do seu projeto, funcionando como uma duplicata. É comumente utilizado para testar modificações sem afetar diretamente o arquivo principal. Ao criar uma nova branch a partir de outra existente, ela começa apontando para o mesmo commit da branch original no momento da criação, funcionando como um ponteiro móvel no histórico do repositório.
+Esse problema por acontecer quando existes alterações concorrentes, isso é,  quando duas pessoas alteram a mesma linha de código, e quando um dos dois tenta enviar essas alterações, acaba gerando um conflito com que o outro havia enviado, pois o git não vai entender qual das alterações precisa ser mantida, então ele retorna esse erro, para que você decida qual alteração você deseja manter. Exemplo, tenho um arquivo que foi editado através da plataforma do gitHub, e outra que foi alterado através das linhas de comando. Quando tento enviar para o meu repositório remoto, ele dará um erro, tipo o exemplo:
 
 exemplo:
 ![arquivos esperando para serem commitados](https://git-scm.com/book/en/v2/images/two-branches.png)
