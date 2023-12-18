@@ -30,17 +30,12 @@ Repositório criado para armazenar resumos das aulas ministrada pela [Elidiana A
 |Aula 06 - Removendo um arquivo do Espaço de Preparação| [Resumo](/resumos/aula-06.md) |
 |Aula 07 - Puxando as alterações do repositório remoto para o local| [Resumo](/resumos/aula-07.md) |
 |Aula 08 - Enviando as alterações do repositório local para o remoto| [Resumo](/resumos/) |
-|Aula 09 - O que é uma Branch, e para quê serve?| [Resumo](/resumos/) |
-|Aula 10 - Mesclando Branchs| [Resumo](/resumos/) |
-|Aula 11 - Visualizando as Branchs disponiveis| [Resumo](/resumos/) |
-|Aula 12 - Deletando uma Branch| [Resumo](/resumos/) |
-|Aula 13 - Mesclando Branchs| [Resumo](/resumos/) |
-|Aula 14 - Conflito de Merge| [Resumo](/resumos/) |
-|Aula 15 - Baixando alterações feitas no repo remoto, sem mesclar as informações com meu repo local| [Resumo](/resumos/) |
-|Aula 16 - Comparando branchs| [Resumo](/resumos/) |
-|Aula 17 - Clonando uma Branch especifica| [Resumo](/resumos/) |
-|Aula 18 - Arquivando Modificações| [Resumo](/resumos/) |
-
+|Aula 09 - O que é uma Branch, e para quê serve? -> Criando, Listando, Mesclando e Excluindo.| [Resumo](/resumos/) |
+|Aula 10 - Conflito de Merge| [Resumo](/resumos/) |
+|Aula 11 - Baixando alterações feitas no repo remoto, sem mesclar as informações com meu repo local| [Resumo](/resumos/) |
+|Aula 12 - Comparando branchs| [Resumo](/resumos/) |
+|Aula 13 - Clonando uma Branch especifica| [Resumo](/resumos/) |
+|Aula 14 - Arquivando Modificações| [Resumo](/resumos/) |
 <br>
 
 ## 📚 Documentação
