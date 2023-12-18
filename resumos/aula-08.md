@@ -11,7 +11,7 @@ Para enviar as alterações do seu repositório local para o repositório remoto
 
 ### ▶ Changes to be committed
 
-Se aparecer algum arquivo sob o título “Changes to be committed”, os arquivos já foram adicionados e estão esperando para serem commitados, exemplo:
+Se aparecer algum arquivo sob o título “Changes to be committed”, os arquivos já foram adicionados e estão esperando para serem commitados, exemplo: <br>
 
 ![arquivos esperando para serem commitados](https://guilherme.readthedocs.io/en/latest/_images/git05.png)
 
