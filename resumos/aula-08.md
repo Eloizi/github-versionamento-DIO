@@ -20,7 +20,7 @@ Se aparecer algum arquivo sob o título “Changes to be committed”, os arquiv
 Se os arquivos estiverem sob o subtítulo “Untracked files” ➡ Não foi rastreado". 
 Basicamente significa que o Git está enxergando um arquivo que não tinha no snapshot (commit) anterior. Para incluir o arquivo no próximo commit é necessário dar o comando:
 -  "git add exemplo_arquivo.md" ➡ especificando qual arquivo quer preparar para o próximo commit, ou 
-- "git add ." ➡ O ponto, serve para adicionar todos os arquivos que ainda não foram rastreados, sem a necessidade de especificar cada um deles. Exemplo: <br>
+- "git add ." ➡ O ponto, serve para adicionar todos os arquivos que ainda não foram rastreados, sem a necessidade de especificar cada um deles. Exemplo:  <br> <br>
 ![arquivos esperando para serem commitados + arquivos que ainda não foram rastreados](https://phoenixnap.com/kb/wp-content/uploads/2022/09/check-untracked-files.png)
 
 
