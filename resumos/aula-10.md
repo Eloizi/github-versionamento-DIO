@@ -11,7 +11,7 @@ Esse problema ocorre quando duas pessoas fazem alterações simultâneas na mesm
 
 Antes de enviar alterações, é importante atualizar o repositório local usando "git pull" para sincronizar com as mudanças remotas. Se houver alterações conflitantes na mesma linha, o Git não consegue decidir automaticamente qual versão manter, exigindo uma resolução manual do conflito. Exemplo:
 
-![exemplo de git pull](/img/erro-conflito-merge.jpg)
+![exemplo de git pull](/img/conflito-merge-git-pull.jpg)
 
 
 Podemos então alterar manualmente o arquivo e escolher a linha que queremos manter, exemplo:
