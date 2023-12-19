@@ -32,7 +32,7 @@ exemplo: <br>
     git branch -v
     ```
 
-- Listar toas as Branches Locais:
+- Listar todas as Branches Locais:
     ```
     git branch
     ```
