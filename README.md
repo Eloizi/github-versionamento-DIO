@@ -32,8 +32,7 @@ Repositório criado para armazenar resumos das aulas ministrada pela [Elidiana A
 |Aula 08 - Enviando as alterações do repositório local para o remoto| [Resumo](/resumos/) |
 |Aula 09 - O que é uma Branch, e para quê serve?  Criando, Listando, Mesclando e Excluindo.| [Resumo](/resumos/) |
 |Aula 10 - Conflito de Merge| [Resumo](/resumos/) |
-|Aula 11 - Baixando alterações feitas no repo remoto, sem mesclar as informações com meu repo local| [Resumo](/resumos/) |
-|Aula 12 - Comparando branchs| [Resumo](/resumos/) |
+|Aula 11 - Atualizando o Repo Local Sem Mesclar com as Alterações do Repo Remoto & Comparando as Branches| [Resumo](/resumos/) |
 |Aula 13 - Clonando uma Branch especifica| [Resumo](/resumos/) |
 |Aula 14 - Arquivando Modificações| [Resumo](/resumos/) |
 <br>
