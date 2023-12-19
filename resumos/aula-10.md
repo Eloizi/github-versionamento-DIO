@@ -1,5 +1,3 @@
-O que é uma Branch, e para quê serve?
-
 # Resumos | Aula 10
 
 ### 🔍 O que é Conflito de Merge?
@@ -9,12 +7,12 @@ Esse problema ocorre quando duas pessoas fazem alterações simultâneas na mesm
 ![exemplo de erro: conflito de merge](/img/exemplo-conflito-merge.jpg)
 
 
-Antes de enviar alterações, é importante atualizar o repositório local usando "git pull" para sincronizar com as mudanças remotas. Se houver alterações conflitantes na mesma linha, o Git não consegue decidir automaticamente qual versão manter, exigindo uma resolução manual do conflito. Exemplo:
+Antes de enviar alterações, é importante atualizar o repositório local usando "git pull" para sincronizar com as mudanças remotas. Se houver alterações conflitantes na mesma linha, será necessário uma resolução manual do conflito. Exemplo:
 
 ![exemplo de git pull](/img/conflito-merge-git-pull.jpg)
 
 
-Podemos então alterar manualmente o arquivo e escolher a linha que queremos manter, exemplo:
+Como o Git não consegue escolher entre as alterações realizadas na mesma linha, ele salva o arquivo com as duas alterações, nos permitindo, então, alterar manualmente o arquivo e escolher a linha que queremos manter, exemplo:
 
 ![exemplo do arquivo antes da modificação](/img/arquivo-necessario-alteracao.jpg)
 
@@ -28,8 +26,7 @@ Com o arquivo modificado podemos perceber que agora é reconhecido pelo "git sta
 
 ![exemplo do arquivo git git commit](/img/conflito-merge-git-pull-git-commit.jpg)
 
-Agora ele nos permite enviar as modificações para nosso repositório remoto, com: “git push origin main”
-seria algo como, envie essas informações que estão na MAIN para a ORIGIN que é um servidor remoto:
+Agora ele nos permite enviar as modificações para nosso repositório remoto, com: “git push origin main”. Em outras palavras, estamos instruindo o Git a enviar as informações que estão na branch 'main' para o repositório remoto chamado 'origin':
 
 ![exemplo enviando arquivos com git push](/img/git-push.jpg)
 
