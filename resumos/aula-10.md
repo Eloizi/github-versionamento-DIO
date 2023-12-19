@@ -4,7 +4,7 @@ O que é uma Branch, e para quê serve?
 
 ### 🔍 O que é Conflito de Merge?
 
-Esse problema ocorre quando duas pessoas fazem alterações simultâneas na mesma linha de código. Se uma delas tentar enviar essas mudanças, surge um conflito com as alterações feitas pela outra pessoa. Isso acontece porque o Git não consegue determinar automaticamente qual versão das alterações deve ser mantida. Em vez disso, ele gera um erro, pedindo que você escolha qual versão deseja manter. Por exemplo, se você editar um arquivo no GitHub e outro arquivo usando comandos de linha, ao tentar enviar para o repositório remoto, um erro será gerado, semelhante ao exemplo mencionado:
+Esse problema ocorre quando duas pessoas fazem alterações simultâneas na mesma linha de código. Se uma delas tentar enviar essas mudanças, surge um conflito com as alterações feitas pela outra pessoa. Isso acontece porque o Git não consegue determinar automaticamente qual versão das alterações deve ser mantida. Em vez disso, ele gera um erro, pedindo que você escolha qual versão deseja manter. Por exemplo, se você editar um arquivo no GitHub e outro arquivo usando comandos de linha, ao tentar enviar para o repositório remoto, um erro será gerado, semelhante ao exemplo:
 
 ![exemplo de erro: conflito de merge](/img/exemplo-conflito-merge.jpg)
 
