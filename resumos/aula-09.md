@@ -52,7 +52,7 @@ exemplo: <br>
         ```
 
 ## Mesclando Branches:
-O comando git merge nomeBranch no Git é utilizado para mesclar as alterações de uma branch específica (nomeBranch) em sua branch atual.
+O comando "git merge nomedaBranch" no Git é utilizado para mesclar as alterações de uma branch específica (nomeBranch) em sua branch atual.
 
 ### 1º Posicionamento na Branch Atual:
 Antes de tudo, você precisa estar na branch para a qual deseja mesclar as alterações. Você pode usar o comando git checkout ou git switch para mudar para a branch de destino.
