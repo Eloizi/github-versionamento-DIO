@@ -6,7 +6,8 @@ O que é uma Branch, e para quê serve?
 
 Uma branch, ou "ramo" em tradução, é uma ramificação do seu projeto, funcionando como uma duplicata. É comumente utilizado para testar modificações sem afetar diretamente o arquivo principal. Ao criar uma nova branch a partir de outra existente, ela começa apontando para o mesmo commit da branch original no momento da criação, funcionando como um ponteiro móvel no histórico do repositório.
 
-exemplo:
+exemplo: <br>
+
 ![arquivos esperando para serem commitados](https://git-scm.com/book/en/v2/images/two-branches.png)
 
 
