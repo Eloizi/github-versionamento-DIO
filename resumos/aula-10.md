@@ -16,22 +16,22 @@ Antes de enviar alterações, é importante atualizar o repositório local usand
 
 Podemos então alterar manualmente o arquivo e escolher a linha que queremos manter, exemplo:
 
-![exemplo do arquivo antes da modificação](/img/erro-conflito-merge.jpg)
+![exemplo do arquivo antes da modificação](/img/arquivo-necessario-alteracao.jpg)
 
 Após escolher qual modificação deseja manter, salve o arquivo:
 
-![exemplo do arquivo depois de modificado](/img/erro-conflito-merge.jpg)
+![exemplo do arquivo depois de modificado](/img/arquivo-modificado.jpg)
 
 Com o arquivo modificado podemos perceber que agora é reconhecido pelo "git status", e podemos seguir com o "git commit":
 
-![exemplo do arquivo git status](/img/erro-conflito-merge.jpg)
+![exemplo do arquivo git status](/img/git-commit-apos-arquivo-modificado.jpg)
 
-![exemplo do arquivo git git commit](/img/erro-conflito-merge.jpg)
+![exemplo do arquivo git git commit](/img/conflito-merge-git-pull-git-commit.jpg)
 
 Agora ele nos permite enviar as modificações para nosso repositório remoto, com: “git push origin main”
 seria algo como, envie essas informações que estão na MAIN para a ORIGIN que é um servidor remoto:
 
-![exemplo enviando arquivos com git push](/img/erro-conflito-merge.jpg)
+![exemplo enviando arquivos com git push](/img/git-push.jpg)
 
 E o problema foi resolvido;
 
