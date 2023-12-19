@@ -29,12 +29,12 @@ Repositório criado para armazenar resumos das aulas ministrada pela [Elidiana A
 |Aula 05 - Alterando Mensagem de um commit| [Resumo](/resumos/aula-05.md) |
 |Aula 06 - Removendo um arquivo do Espaço de Preparação| [Resumo](/resumos/aula-06.md) |
 |Aula 07 - Puxando as alterações do repositório remoto para o local| [Resumo](/resumos/aula-07.md) |
-|Aula 08 - Enviando as alterações do repositório local para o remoto| [Resumo](/resumos/) |
-|Aula 09 - O que é uma Branch, e para quê serve?  Criando, Listando, Mesclando e Excluindo.| [Resumo](/resumos/) |
-|Aula 10 - Conflito de Merge| [Resumo](/resumos/) |
-|Aula 11 - Atualizando o Repo Local Sem Mesclar com as Alterações do Repo Remoto & Comparando as Branches| [Resumo](/resumos/) |
-|Aula 13 - Clonando uma Branch especifica| [Resumo](/resumos/) |
-|Aula 14 - Arquivando Modificações| [Resumo](/resumos/) |
+|Aula 08 - Enviando as alterações do repositório local para o remoto| [Resumo](/resumos/aula-08.md) |
+|Aula 09 - O que é uma Branch, e para quê serve?  Criando, Listando, Mesclando e Excluindo.| [Resumo](/resumos/aula-09.md) |
+|Aula 10 - Conflito de Merge| [Resumo](/resumos/aula-10.md) |
+|Aula 11 - Atualizando o Repo Local Sem Mesclar com as Alterações do Repo Remoto & Comparando as Branches| [Resumo](/resumos/aula-11.md) |
+|Aula 12 - Clonando uma Branch especifica| [Resumo](/resumos/aula-12.md) |
+|Aula 13 - Arquivando Modificações| [Resumo](/resumos/aula-13.md) |
 <br>
 
 ## 📚 Documentação
