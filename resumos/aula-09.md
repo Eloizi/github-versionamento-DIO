@@ -52,14 +52,14 @@ exemplo: <br>
         ```
 
 ## Mesclando Branches:
-O comando "git merge nomedaBranch" no Git é utilizado para mesclar as alterações de uma branch específica (nomeBranch) em sua branch atual.
+O comando "git merge nomeBranch" no Git é utilizado para mesclar as alterações de uma branch específica (nomeBranch) em sua branch atual.
 
 ### 1º Posicionamento na Branch Atual:
-Antes de tudo, você precisa estar na branch para a qual deseja mesclar as alterações. Você pode usar o comando git checkout ou git switch para mudar para a branch de destino.
+Antes de tudo, você precisa estar na branch para a qual deseja mesclar as alterações. Você pode usar o comando "git checkout" ou "git switch" para mudar para a branch de destino.
 
 ### 2º Execução do Comando de Mesclagem:
 
-Você executa o comando git merge nomeBranch, indicando a branch da qual deseja trazer as alterações (nomeBranch) para a branch atual:
+Você executa o comando "git merge nomeBranch", indicando a branch da qual deseja trazer as alterações (nomeBranch) para a branch atual:
 
 ```
 git merge nomeBranch
@@ -69,7 +69,7 @@ Após o comando o git analisará as alterações feitas em ambas as branches (a 
 
 ### 3º Possíveis Conflitos:
 
-Se houver conflitos entre as alterações (ou seja, modificações no mesmo local do código em ambas as branches), o Git pausará o processo de mesclagem e indicará que há conflitos a serem resolvidos. Dúvidas acesse o resumo da [aula 10](/resumos/).
+Se houver conflitos entre as alterações (ou seja, modificações no mesmo local do código em ambas as branches), o Git pausará o processo de mesclagem e indicará que há conflitos a serem resolvidos. Dúvidas acesse o resumo da [aula 10](/resumos/aula-10.md).
 
 ### 4º Confirmação da Mesclagem:
 
