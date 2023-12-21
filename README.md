@@ -60,5 +60,5 @@ Repositório criado para armazenar resumos das aulas ministrada pela [Elidiana A
 
 [![Linkedin](https://img.shields.io/badge/Acesse%20o%20meu-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eloizi-nogueira-da-silva/) [![Gmail](https://img.shields.io/badge/Entre%20em%20Contato-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nogueira.eloizi@gmail.com)](mailto:nogueira.eloizi@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/eloizisilva16/)](https://www.instagram.com/eloizisilva16/)
 
-<sub><b>Desenvolvido por: Eloizi ❤️</b></sub></a>
+<sub><b>Desenvolvido por: Eloizi ❤️ - 2023</b></sub></a>
 
